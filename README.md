@@ -25,4 +25,8 @@ We propose a strategy to lower the cost of GPT-3 while maintaining its high qual
 
 ## Code Walkthrough
 
-The `code.ipynb` file can run locally through Jupyter Notebook or Google Colab.
+1) The `code.ipynb` file can run locally through Jupyter Notebook or Google Colab.
+2) While running the `Preparing the data to be fed into the GPT-3 model for fine tuning. The CSV file is converted to a JSON file format suitable to fine tune OpenAI's GPT model.` cell, pass `Y` to all requests
+
+   <img width="1408" alt="image" src="https://user-images.githubusercontent.com/64778259/208596331-b96d823d-eebc-4a95-b453-2894bccf20d8.png">
+
