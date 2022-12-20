@@ -27,8 +27,11 @@ We propose a strategy to lower the cost of GPT-3 while maintaining its high qual
 
 1) The `code.ipynb` file can run locally through Jupyter Notebook or Google Colab.
 2) Requirements: 
+
    `pip install openai`
+   
    `pip install wandb`
+   
 3) A wandb account is required to run this code. Creating a wandb account is free and the API Key of the wandb account is required to publish the graphs and visualizations into it.
 4) While running the `Preparing the data to be fed into the GPT-3 model for fine tuning. The CSV file is converted to a JSON file format suitable to fine tune OpenAI's GPT model.` cell, pass `Y` to all requests
 
