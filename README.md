@@ -23,3 +23,6 @@ We propose a strategy to lower the cost of GPT-3 while maintaining its high qual
 
 ![hpml drawio (1)](https://user-images.githubusercontent.com/64778259/208584100-9d38a668-04b2-4793-b2e5-d3425a854533.png)
 
+## Code Walkthrough
+
+The `code.ipynb` file can run locally through Jupyter Notebook or Google Colab.
