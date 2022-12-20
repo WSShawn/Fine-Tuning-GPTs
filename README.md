@@ -34,4 +34,19 @@ We propose a strategy to lower the cost of GPT-3 while maintaining its high qual
 
    <img width="1134" alt="image" src="https://user-images.githubusercontent.com/64778259/208596662-733ba91c-288d-42df-af56-530b1f79708c.png">
 
+## Results
+
+![bar-graph (7)](https://user-images.githubusercontent.com/64778259/208597297-55f95c27-d830-470b-b30c-9ea3534baf4f.png)
+![bar-graph (6)](https://user-images.githubusercontent.com/64778259/208597299-9eabaf43-ee55-43cd-9829-da801c303d57.png)
+
+![bar-graph (5)](https://user-images.githubusercontent.com/64778259/208597301-2054e1c9-3a55-46cb-8cc4-355c32a8161a.png)
+![bar-graph (4)](https://user-images.githubusercontent.com/64778259/208597302-407d675e-5c4b-4c83-b4fa-e0a7ef410fec.png)
+
+
+![tl (5)](https://user-images.githubusercontent.com/64778259/208597394-206cffb9-b847-4637-9e08-6f529278bad4.png)
+![vl (5)](https://user-images.githubusercontent.com/64778259/208597396-3923a6be-811a-4c1e-be56-32c508df4175.png)
+
+![va (4)](https://user-images.githubusercontent.com/64778259/208597400-973ed62e-1115-4ba2-a3cd-7f4942409dce.png)
+![ta (3)](https://user-images.githubusercontent.com/64778259/208597405-1991a118-3d03-497b-8a11-7111d8c52a2e.png)
+
 
