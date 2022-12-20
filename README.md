@@ -26,11 +26,15 @@ We propose a strategy to lower the cost of GPT-3 while maintaining its high qual
 ## Code Walkthrough
 
 1) The `code.ipynb` file can run locally through Jupyter Notebook or Google Colab.
-2) While running the `Preparing the data to be fed into the GPT-3 model for fine tuning. The CSV file is converted to a JSON file format suitable to fine tune OpenAI's GPT model.` cell, pass `Y` to all requests
+2) Requirements: 
+   `pip install openai`
+   `pip install wandb`
+3) A wandb account is required to run this code. Creating a wandb account is free and the API Key of the wandb account is required to publish the graphs and visualizations into it.
+4) While running the `Preparing the data to be fed into the GPT-3 model for fine tuning. The CSV file is converted to a JSON file format suitable to fine tune OpenAI's GPT model.` cell, pass `Y` to all requests
 
    <img width="1408" alt="image" src="https://user-images.githubusercontent.com/64778259/208596331-b96d823d-eebc-4a95-b453-2894bccf20d8.png">
    
-3) While running the `Training the model` cell, pass empty strings to everything.
+5) While running the `Training the model` cell, pass empty strings to everything.
 
    <img width="1134" alt="image" src="https://user-images.githubusercontent.com/64778259/208596662-733ba91c-288d-42df-af56-530b1f79708c.png">
 
