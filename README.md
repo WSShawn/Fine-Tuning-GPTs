@@ -1,5 +1,7 @@
 # Fine-Tuning-GPTs
 
+Project Created By - Ali Quidwai and Nagharjun 
+
 ## Introduction
 Not every organization will have the resources or capability to build a large language model from scratch due to the extensive dataset and computational requirements involved in the process
 
